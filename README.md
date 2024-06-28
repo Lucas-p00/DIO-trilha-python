@@ -3,4 +3,4 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
 
 
 ## Desafios
-#### Desafio 1 - [Criando um sistema bancário](https://github.com/Lucas-p00/DIO-trilha-python)
+#### Desafio 1 - [Criando um sistema bancário](https://github.com/Lucas-p00/DIO-trilha-python/tree/main/Desafio%201)
