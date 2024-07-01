@@ -27,7 +27,17 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
         </tr>
         <tr>
             <td>Verificador de Planos de Internet</td>
-            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Estruturas%20de%20Dados/desafio_codigo.py">Código</a></td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Estruturas%20de%20Dados/desafio_codigo_1.py">Código</a></td>
             <td align="center">✔️</td>
-        </tr>                
+        </tr>   
+        <tr>
+            <td>Lista de Equipamentos</td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Estruturas%20de%20Dados/desafio_codigo_2.py">Código</a></td>
+            <td align="center">✔️</td>
+        </tr>               
+        <tr>
+            <td>Validando número de telefone</td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Estruturas%20de%20Dados/desafio_codigo_3.py">Código</a></td>
+            <td align="center">✔️</td>
+        </tr>               
     </table>
