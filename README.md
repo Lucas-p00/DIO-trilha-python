@@ -10,8 +10,8 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
     </tr>
     <tr>
         <th>Desafio</th>
-        <th>Solução</th>
-        <th>Status</th>
+        <th class="columns2">Solução</th>
+        <th class="columns2">Status</th>
     </tr>
     <tr>
         <td>Sistema Bancário</td>
@@ -40,18 +40,55 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
     </tr>               
 </table>
 
-<table border=1>
+<table border=1 width=500px;>
         <tr>
             <th colspan="3"><a href="https://github.com/Lucas-p00/DIO-trilha-python/tree/main/Programação%20Orientada%20a%20Objetos">Módulo - Programação Orientada a Objetos</a></th>
         </tr>
         <tr>
             <th>Desafio</th>
-            <th>Solução</th>
-            <th>Status</th>
+            <th class="columns2">Solução</th>
+            <th class="columns2">Status</th>
         </tr>
         <tr>
             <td>Sistema Bancário em POO</td>
-            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/desafio_projeto.py">Código</a></td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/desafio_projeto_1.py">Código</a></td>
+            <td align="center">✔️</td>
+        </tr>
+        <tr>
+            <td>Sistema Bancário em POO (Upgrade)</td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/desafio_projeto_2.py">Código</a></td>
+            <td align="center">✔️</td>
+        </tr>
+        <tr>
+            <td>Sistema Bancário em POO (Com log de eventos)</td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/desafio_projeto_3.py">Código</a></td>
+            <td align="center">✔️</td>
+        </tr>
+        <tr>
+            <td>Planos de Telefonia</td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/desafio_projeto_3.py">Código</a></td>
+            <td align="center">✔️</td>
+        </tr>
+        <tr>
+            <td>Planos de Telefonia (Adicionando Funcionalidades)</td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/desafio_projeto_3.py">Código</a></td>
+            <td align="center">✔️</td>
+        </tr>
+        <tr>
+            <td>Planos de Telefonia (Realizando Chamadas)</td>
+            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/desafio_projeto_3.py">Código</a></td>
             <td align="center">✔️</td>
         </tr>
 </table>
+
+<style>
+    table {
+        width: 500px;
+    }
+    th, td {
+        text-align: center
+    }
+    .columns2 {
+        width: 50px;
+    }
+</style>
