@@ -54,9 +54,4 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
             <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/desafio_projeto.py">Código</a></td>
             <td align="center">✔️</td>
         </tr>
-        <tr>
-            <td>Sistema Bancário com decoradores,<br>iteradores e geradores </td>
-            <td><a href="https://github.com/Lucas-p00/DIO-trilha-python/blob/main/Programação%20Orientada%20a%20Objetos/Decoradores%2C%20Iteradores%20e%20Geradores/desafio_projeto_1.py">Código</a></td>
-            <td align="center">✔️</td>
-        </tr>
 </table>
