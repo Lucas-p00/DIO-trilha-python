@@ -4,14 +4,14 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
 ## Desafios
 
 <br />
-<table border=1 style="width: 500px;">
+<table border=1>
     <tr>
-        <th colspan="3" style="text-align: center"><a href="https://github.com/Lucas-p00/DIO-trilha-python/tree/main/Estruturas%20de%20Dados">Módulo - Dominando Python e suas Estruturas de Dados</a></th>
+        <th colspan="3"><a href="https://github.com/Lucas-p00/DIO-trilha-python/tree/main/Estruturas%20de%20Dados">Módulo - Dominando Python e suas Estruturas de Dados</a></th>
     </tr>
     <tr>
-        <th style="text-align: center">Desafio</th>
-        <th style="width: 50px; text-align: center">Solução</th>
-        <th style="width: 50px; text-align: center">Status</th>
+        <th>Desafio</th>
+        <th>Solução</th>
+        <th>Status</th>
     </tr>
     <tr>
         <td>Sistema Bancário</td>
@@ -40,14 +40,14 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
     </tr>               
 </table>
 
-<table border=1 style="width: 500px;">
+<table border=1>
         <tr>
-            <th colspan="3" style="text-align: center"><a href="https://github.com/Lucas-p00/DIO-trilha-python/tree/main/Programação%20Orientada%20a%20Objetos">Módulo - Programação Orientada a Objetos</a></th>
+            <th colspan="3"><a href="https://github.com/Lucas-p00/DIO-trilha-python/tree/main/Programação%20Orientada%20a%20Objetos">Módulo - Programação Orientada a Objetos</a></th>
         </tr>
         <tr>
-        <th style="text-align: center">Desafio</th>
-        <th style="width: 50px; text-align: center">Solução</th>
-        <th style="width: 50px; text-align: center">Status</th>
+            <th>Desafio</th>
+            <th>Solução</th>
+            <th>Status</th>
         </tr>
         <tr>
             <td>Sistema Bancário em POO</td>
