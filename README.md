@@ -10,8 +10,8 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
     </tr>
     <tr>
         <th>Desafio</th>
-        <th class="columns2">Solução</th>
-        <th class="columns2">Status</th>
+        <th>Solução</th>
+        <th>Status</th>
     </tr>
     <tr>
         <td>Sistema Bancário</td>
@@ -40,14 +40,14 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
     </tr>               
 </table>
 
-<table border=1 width=500px;>
+<table border=1>
         <tr>
             <th colspan="3"><a href="https://github.com/Lucas-p00/DIO-trilha-python/tree/main/Programação%20Orientada%20a%20Objetos">Módulo - Programação Orientada a Objetos</a></th>
         </tr>
         <tr>
             <th>Desafio</th>
-            <th class="columns2">Solução</th>
-            <th class="columns2">Status</th>
+            <th>Solução</th>
+            <th>Status</th>
         </tr>
         <tr>
             <td>Sistema Bancário em POO</td>
@@ -80,15 +80,3 @@ Repositório destinado aos desafios e projetos do curso "Python AI Backend Devel
             <td align="center">✔️</td>
         </tr>
 </table>
-
-<style>
-    table {
-        width: 500px;
-    }
-    th, td {
-        text-align: center
-    }
-    .columns2 {
-        width: 50px;
-    }
-</style>
